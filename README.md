@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**Lickem1/Lickem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```c#
+    class Lickem : Git {
 
-Here are some ideas to get you started:
+        public Lickem() {
+            this.username = "Lickem";
+            this.country = "United States";
+            this.age = 19;
+            this.more = new string[] {
+            
+                "Welcome to my GitHub Page!",
+                "There's not much here (╯°□°）╯︵ ┻━┻"
+            };
 
-- 🔭 I’m currently working on ... Nerdf
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+           
+            for(int i = 0; i < 1e6; i++) {
+                Console.WriteLine("Stop coding");
+            }
+        }
+    }
+
+    abstract class Git {
+    
+        public string username { get; set; }
+        public string country { get; set; }
+        public int age { get; set; }
+        public string[] more { get; set; }
+
+    }
+
+}
+```
