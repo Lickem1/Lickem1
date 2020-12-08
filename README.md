@@ -1,5 +1,5 @@
 
-![Lickem's github stats](https://github-readme-stats.vercel.app/api?username=Lickem1&count_private=true&show_icons=true&theme=dark&hide_border=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lickem1&theme=dark&count_private=true)
+![Lickem's github stats](https://github-readme-stats.vercel.app/api?username=Lickem1&count_private=true&show_icons=true&theme=dark&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lickem1&theme=dark&count_private=true)
 ```c#
     class Lickem : Git {
 
@@ -32,4 +32,4 @@
 
 }
 ```
-<a href="https://imgflip.com/gif/4pldgn">via Imgflip</a>
+![](https://i.imgur.com/cWkuCJT.mp4)
