@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```c#
     class Lickem : Git {
 
@@ -31,3 +29,5 @@
 
 }
 ```
+[YouTube](https://www.youtube.com/Lickem)
+[Steam](https://www.steamcommunity.com/id/25p)
