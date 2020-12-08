@@ -1,3 +1,5 @@
+
+![Lickem's github stats](https://github-readme-stats.vercel.app/api?username=Lickem1&count_private=true&show_icons=true&theme=dark&hide_border=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lickem1&theme=dark&count_private=true)
 ```c#
     class Lickem : Git {
 
@@ -8,7 +10,8 @@
             this.more = new string[] {
             
                 "Welcome to my GitHub Page!",
-                "There's not much here (╯°□°）╯︵ ┻━┻"
+                "I mostly code in java so don't expect me to push anything else ¯\_(ツ)_/¯",
+                "GET OUT OF MY ROOM I'M PLAYING MINECRAFT (╯°□°）╯︵ ┻━┻"
             };
 
            
@@ -29,5 +32,3 @@
 
 }
 ```
-[YouTube](https://www.youtube.com/Lickem)
-[Steam](https://www.steamcommunity.com/id/25p)
