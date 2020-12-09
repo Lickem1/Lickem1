@@ -45,3 +45,5 @@
     <code><img width="25px" src="assets/twitter.svg"></code>
     <code><img width="25px" src="assets/spotify.svg"></code>
     <code><img width="25px" src="assets/discord.svg"></code>
+
+![](rock.gif)
