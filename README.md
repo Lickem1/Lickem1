@@ -39,6 +39,7 @@
     <code><img width="25px" src="assets/git.svg"></code>
     <code><img width="25px" src="assets/mongodb.png"></code>
     <code><img width="25px" src="assets/redis.png"></code>
+    <code><img width="25px" src="assets/mysql.svg"></code>
     <code><img width="25px" src="assets/intellij.svg"></code>
     <code><img width="25px" src="assets/datagrip.svg"></code>
     <code><img width="25px" src="assets/rider.png"></code>
