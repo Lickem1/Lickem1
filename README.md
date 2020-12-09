@@ -39,8 +39,8 @@
     <code><img width="25px" src="assets/git.svg"></code>
     <code><img width="25px" src="assets/intellij.svg"></code>
     <code><img width="25px" src="assets/datagrip.svg"></code>
-    <code><img width="25px" src="assets/visualstudio.svg"></code>
     <code><img width="25px" src="assets/rider.png"></code>
+    <code><img width="25px" src="assets/visualstudio.svg"></code>
     <code><img width="25px" src="assets/sublime.png"></code>
     <code><img width="25px" src="assets/mobaxterm.jpg"></code>
     <hr>
