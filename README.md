@@ -49,7 +49,7 @@
     <code><img width="25px" src="assets/heidisql.png"></code>
     <hr>
     <h4>Social Media Platforms<h4>
-        <code><a href="https://twitter.com/Lickem1"><img width="25px" src="assets/twitter.svg"></a></code>
+        <code><a href="https://twitter.com/Lickem__"><img width="25px" src="assets/twitter.svg"></a></code>
         <code><a href="https://open.spotify.com/user/gazpachoyt"><img width="25px" src="assets/spotify.svg"></a></code>
         <code><a href="https://discord.gg/Cm7NQX3"><img width="25px" src="assets/discord.svg"></a></code>
 <hr>
