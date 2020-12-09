@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/Lickem1/Lickem1.svg)](http://hits.dwyl.com/Lickem1/Lickem1)
 ![Lickem's github stats](https://github-readme-stats.vercel.app/api?username=Lickem1&count_private=true&show_icons=true&theme=dark&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lickem1&theme=dark&count_private=true)
 ```c#
     class Lickem : Git {
