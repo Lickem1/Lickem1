@@ -44,4 +44,4 @@
     <h4>Social Media Platforms<h4>
     <code><img width="25px" src="assets/twitter.svg"></code>
     <code><img width="25px" src="assets/spotify.svg"></code>
-    <code><img width="25px" src="assets/visualstudio.svg"></code>
+    <code><img width="25px" src="assets/discord.svg"></code>
