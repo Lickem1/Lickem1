@@ -36,7 +36,6 @@
     <h4>Programming Languages & Tools</h4>
     <code><img width="25px" src="assets/java.svg"></code>
     <code><img width="25px" src="assets/cs.svg"></code>
-    <br><br>
     <code><img width="25px" src="assets/intellij.svg"></code>
     <code><img width="25px" src="assets/datagrip.svg"></code>
     <code><img width="25px" src="assets/visualstudio.svg"></code>
