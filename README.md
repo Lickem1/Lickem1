@@ -37,6 +37,8 @@
     <code><img width="25px" src="assets/java.svg"></code>
     <code><img width="25px" src="assets/cs.svg"></code>
     <code><img width="25px" src="assets/git.svg"></code>
+    <code><img width="25px" src="assets/mongodb.png"></code>
+    <code><img width="25px" src="assets/redis.png"></code>
     <code><img width="25px" src="assets/intellij.svg"></code>
     <code><img width="25px" src="assets/datagrip.svg"></code>
     <code><img width="25px" src="assets/rider.png"></code>
@@ -44,8 +46,6 @@
     <code><img width="25px" src="assets/sublime.png"></code>
     <code><img width="25px" src="assets/mobaxterm.jpg"></code>
     <code><img width="25px" src="assets/heidisql.png"></code>
-    <code><img width="25px" src="assets/mongodb.png"></code>
-    <code><img width="25px" src="assets/redis.png"></code>
     <hr>
     <h4>Social Media Platforms<h4>
         <code><a href="https://twitter.com/Lickem1"><img width="25px" src="assets/twitter.svg"></a></code>
