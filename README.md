@@ -39,3 +39,6 @@
     <code><img width="25px" src="assets/intellij.svg"></code>
     <code><img width="25px" src="assets/datagrip.svg"></code>
     <code><img width="25px" src="assets/visualstudio.svg"></code>
+    <hr>
+    <h4>Social Media Platforms<h4>
+
