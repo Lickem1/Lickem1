@@ -31,7 +31,8 @@
 
 }
 ```
+<hr>
 <div align="center">
-    <h4>Programming Languages</h4>
+    <h4>Programming Languages & Tools</h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/cpp.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/cs.svg"></code>
