@@ -36,9 +36,12 @@
     <h4>Programming Languages & Tools</h4>
     <code><img width="25px" src="assets/java.svg"></code>
     <code><img width="25px" src="assets/cs.svg"></code>
+    <code><img width="25px" src="assets/git.svg"></code>
     <code><img width="25px" src="assets/intellij.svg"></code>
     <code><img width="25px" src="assets/datagrip.svg"></code>
     <code><img width="25px" src="assets/visualstudio.svg"></code>
     <hr>
     <h4>Social Media Platforms<h4>
-
+    <code><img width="25px" src="assets/twitter.svg"></code>
+    <code><img width="25px" src="assets/spotify.svg"></code>
+    <code><img width="25px" src="assets/visualstudio.svg"></code>
