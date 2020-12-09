@@ -1,4 +1,5 @@
 ![Lickem's github stats](https://github-readme-stats.vercel.app/api?username=Lickem1&count_private=true&show_icons=true&theme=dark&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lickem1&theme=dark&count_private=true)
+<hr>
 ```c#
     class Lickem : Git {
 
@@ -34,5 +35,5 @@
 <hr>
 <div align="center">
     <h4>Programming Languages & Tools</h4>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/cpp.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/cs.svg"></code>
+    <code><img width="25px" src="assets/java.svg"></code>
+    <code><img width="25px" src="assets/cs.svg"></code>
