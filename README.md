@@ -5,7 +5,7 @@
         public Lickem() {
             this.username = "Lickem";
             this.country = "United States";
-            this.age = 21;
+            this.age = 22;
             this.more = new string[] {
             
                 "Welcome to my GitHub Page!",
