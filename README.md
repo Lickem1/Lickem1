@@ -1,4 +1,3 @@
-![Lickem's github stats](https://github-readme-stats.vercel.app/api?username=Lickem1&count_private=true&show_icons=true&theme=tokyonight&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lickem1&theme=tokyonight&count_private=true)
 ```c#
     class Lickem : Git {
 
@@ -31,26 +30,6 @@
 
 }
 ```
-<hr>
-<div align="center">
-    <h4>Programming Languages & Tools</h4>
-    <code><img width="25px" src="assets/java.svg"></code>
-    <code><img width="25px" src="assets/cs.svg"></code>
-    <code><img width="25px" src="assets/git.svg"></code>
-    <code><img width="25px" src="assets/mongodb.png"></code>
-    <code><img width="25px" src="assets/redis.png"></code>
-    <code><img width="25px" src="assets/mysql.svg"></code>
-    <code><img width="25px" src="assets/intellij.svg"></code>
-    <code><img width="25px" src="assets/datagrip.svg"></code>
-    <code><img width="25px" src="assets/rider.png"></code>
-    <code><img width="25px" src="assets/visualstudio.svg"></code>
-    <code><img width="25px" src="assets/sublime.png"></code>
-    <code><img width="25px" src="assets/mobaxterm.jpg"></code>
-    <code><img width="25px" src="assets/heidisql.png"></code>
-    <hr>
-    <h4>Social Media Platforms<h4>
-        <code><a href="https://twitter.com/Lickem__"><img width="25px" src="assets/twitter.svg"></a></code>
-        <code><a href="https://discord.gg/Cm7NQX3"><img width="25px" src="assets/discord.svg"></a></code>
-<hr>
+![Lickem's github stats](https://github-readme-stats.vercel.app/api?username=Lickem1&count_private=true&show_icons=true&theme=tokyonight&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lickem1&theme=tokyonight&count_private=true)
 
 ![](rock.gif)
